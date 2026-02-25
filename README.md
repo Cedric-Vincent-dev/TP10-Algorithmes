@@ -4,19 +4,19 @@
 Ce projet a été réalisé dans le cadre du TP10 d’algorithmique.  
 Il implémente deux algorithmes fondamentaux :
 
-- **QuickSort** (tri rapide)
-- **Binary Search** (recherche dichotomique)
+- QuickSort (tri rapide)
+- Binary Search (recherche dichotomique)
 
 Le projet inclut :
 - une démonstration complète dans `main.c`
 - une bibliothèque `algorithms` contenant les fonctions
-- des **tests unitaires** automatisés via CTest
-- un système de compilation propre avec **CMake**
+- des tests unitaires automatisés via CTest
+- un système de compilation propre avec CMake
 - des captures d’écran de la compilation et de l’exécution
 
----
 
-## 📁 Structure du projet
+
+📁 Structure du projet
 
 ```
 TP10_Algorithmes/
@@ -41,7 +41,7 @@ TP10_Algorithmes/
 
 ---
 
-## ⚙️ Compilation
+⚙️ Compilation
 
 Depuis la racine du projet :
 
@@ -115,3 +115,4 @@ Ce TP met en pratique :
 Le projet est propre, structuré et entièrement reproductible.
 
 ```
+
